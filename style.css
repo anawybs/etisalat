@@ -668,7 +668,7 @@ body::before
     height: 245px;
     background: url('https://dl.dir.freefiremobile.com/common/web_event/mocoparty/images/dialog_bg.png') no-repeat;
     background-size: 100% 100%;
-    filter: hue-rotate(219deg);
+    filter: hue-rotate(90deg);
     display: flex;
     align-items: center;
     justify-content: center;
