@@ -55,8 +55,8 @@ body::before
     background-attachment: fixed;
     background-size: 100% 100%;
     padding: 50px 5px 45px 5px;
-    border: 2px solid #5F1B01;
-    border-radius: 3px;
+    /* border: 2px solid #5F1B01; */
+    /* border-radius: 3px; */
     overflow: hidden;
 }
 .app:before
