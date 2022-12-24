@@ -21,7 +21,7 @@ body
     }
 body::before 
 {
-    /* content: ''; */
+    content: '';
     position: fixed;
     top: 0;
     left: 0;
@@ -61,7 +61,7 @@ body::before
 }
 .app:before
 {
-    /* content: ''; */
+    content: '';
     position: absolute;
     top: 0;
     left: 0;
